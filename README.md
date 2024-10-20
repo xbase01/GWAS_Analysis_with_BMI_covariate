@@ -86,7 +86,7 @@ To replicate the analysis, follow these steps:
 Contact
 -------
 
-If you have questions or need the .vcf file, please contact Jude Aneke at \[your email here\].
+If you have questions or need the .vcf file, please contact Jude Aneke at \[aneke.d@phystech.edu\].
 
 License
 -------
